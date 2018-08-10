@@ -1,0 +1,11 @@
+T 6.1.12:46
+main   263-264 传给客户端数据
+新加服务器(石士盾)3个文件  kehuduan2.py  ceshi111.py array_server.py
+
+===============
+T 6.2.11:41
+main    78-80 创建音乐对象
+新加加载音乐文件      yinyue.py
+新加文件夹      yinyue
+   15:13
+新加图片 img/guang.gif     跳跃时出现假装瞬移
