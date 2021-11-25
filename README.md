@@ -1,4 +1,10 @@
-#### 多人对战射击类游戏
-##### 游戏规则：三局两胜制，在第一次死亡后会切换地图。
-##### 开发环境：ubuntu+pycharm+python+pygame
-##### 运行方法：修改server.py地址和client.py中的地址，启动服务器server.py后，运行客户端程序main.py
+#### Multiplayer shooting games
+##### Game rules: 
+Best of three games, after the first death will switch the map.
+##### Development environment：
+ubuntu+pycharm+python+pygame
+##### Quick start：
+edit file server.py and client.py ip,port
+python server.py
+python main.py
+attention:run server.py before run main.py
